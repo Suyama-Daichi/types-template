@@ -1,5 +1,5 @@
 {
-  "name": "@types/sample-types",
+  "name": "@suyama-daichi/sample-types",
   "version": "0.0.1",
   "description": "サーバー側、クライアント側で共通利用する型定義パッケージです。",
   "main": "dist/index.js",
