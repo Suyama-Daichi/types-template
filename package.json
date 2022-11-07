@@ -1,6 +1,6 @@
 {
   "name": "@suyama-daichi/sample-types",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "サーバー側、クライアント側で共通利用する型定義パッケージです。",
   "main": "dist/index.js",
   "scripts": {
