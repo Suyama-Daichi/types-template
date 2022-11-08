@@ -1,6 +1,6 @@
 {
   "name": "@suyama-daichi/sample-types",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "サーバー側、クライアント側で共通利用する型定義パッケージです。",
   "main": "dist/index.js",
   "scripts": {
@@ -24,10 +24,7 @@
     "rimraf": "^3.0.2",
     "typescript": "^4.7.3"
   },
-  "files": [
-    "dist"
-  ],
-  "types": "./dist/index.d.ts",
+  "types": "./index.d.ts",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/suyama-daichi"
   },
